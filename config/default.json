@@ -2,4 +2,4 @@
     "dbURI": "mongodb://127.0.0.1:27017/",
     "jwtsectret": "your wt secret",
     "StripeAPIKey": "your stripe secret api key"
-}
+}   
